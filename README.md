@@ -29,3 +29,17 @@ Spurningar:
 
 	6. Hversu oft telur �� a� eigi a� gera commit � verkefni, r�kstuddu?
 	    �a� � a� commita � git � hvert sinn sem st�rar e�a mi�lungs breytingar eru ger�ar til a� vi�halda g��ri uppf�rslu og st��u gitsins t.d. �egar �� svara st�rri spurningu er gott a� commita.
+        
+	7. Hva� er "Working directory"?" "Staging area"?" og "Repository" � GIT?
+	    Working directory = E�a ( WD ) mappan sem �� ert staddur �.
+	    Staging area = Sta�urinn sem �� gerir breytingar ��ur en �� commitar ��r � giti�.
+	    Repository = Geymsla fyrir commits og v�sanir � commits a� nafni "heads".
+
+	8. Hven�r er sni�ugt a� nota greinar (branches)? 
+	    �egar �� vilt skipta m�rgum hlutum � flokka, �� er gott a� nota branches.
+
+	9. Hver fann upp git?
+	    Linus Torvalds, hann nefndi flest�ll verkefni eftir sj�lfum s�r t.d Linux.
+
+	10. Hvar er GIT helst nota�?
+	     A�allega � fyrirt�kjum og �a� er l�ka nota� � verkefnum eins og �essu.
